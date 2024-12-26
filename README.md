@@ -34,3 +34,17 @@ The Nim game is a turn-based strategy game where a human competes against a comp
 1. **Compile the Files**:
    ```bash
    javac Nim.java Game.java Computer.java Human.java
+## Run the Game
+
+2. **Run the Game**:
+   ```bash
+   java Nim
+Follow the on-screen prompts to play the game against the computer.
+
+## Files in the Repository
+
+1. `Nim.java`: Test class for the Nim game (do not modify).
+2. `Game.java`: Core game logic.
+3. `Computer.java`: AI logic for the computer player.
+4. `Human.java`: Logic for the human player's interactions.
+5. `README.txt`: Explanation of design choices and instructions.
